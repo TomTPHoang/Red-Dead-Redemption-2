@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Red Dead Redemption 2.csproj",
+      "projectUniqueName": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Red Dead Redemption 2.csproj",
       "projectName": "Red Dead Redemption 2",
-      "projectPath": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Red Dead Redemption 2.csproj",
+      "projectPath": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Red Dead Redemption 2.csproj",
       "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\obj\\",
+      "outputPath": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",

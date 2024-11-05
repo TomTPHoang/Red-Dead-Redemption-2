@@ -244,3 +244,44 @@ footer {
     opacity: 1; /* Show details on hover */
     transform: translateY(0); /* Move details up on hover */
 }
+
+/* Weapon Customization Styles */
+.weapon-customization-section p {
+    width: 80%;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #d9b886;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.weapon-customization-section h2 {
+    color: #d9b886;
+    text-align: center; /* Add this to center the text */
+}
+
+.customization-grid {
+    margin-top: 20px;
+}
+
+.customization-item {
+    text-align: center; /* Center text within each item */
+    margin-bottom: 20px;
+}
+
+    .customization-item img {
+        display: block;
+        width: 100%;
+        height: auto;
+        max-height: 200px; /* Adjust max height as needed */
+        margin-bottom: 10px; /* Add spacing between image and text */
+    }
+
+    .customization-item p {
+        color: white;
+        transition: color 0.3s ease;
+    }
+
+    .customization-item:hover p {
+        color: #b80000;
+    }

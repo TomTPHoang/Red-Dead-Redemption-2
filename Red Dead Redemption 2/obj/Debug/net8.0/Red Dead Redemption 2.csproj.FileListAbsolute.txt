@@ -88,3 +88,4 @@ C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\n
 C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.pdb
 C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.genruntimeconfig.cache
 C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\ref\Red Dead Redemption 2.dll
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.sourcelink.json

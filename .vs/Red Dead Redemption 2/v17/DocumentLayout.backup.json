@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\",
+  "WorkspaceRootPath": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\views\\home\\story.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\home\\story.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\views\\home\\characters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\home\\characters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\views\\home\\weaponry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\views\\home\\weaponry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\home\\weaponry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\views\\home\\story.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\home\\story.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\views\\home\\characters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\home\\characters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\downloads\\red dead redemption 2\\red dead redemption 2\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|c:\\users\\phuoc\\desktop\\code\\web app\\red dead redemption 2\\red dead redemption 2\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58561185-20AC-4D99-A490-9DD63F0B8F4C}|Red Dead Redemption 2\\Red Dead Redemption 2.csproj|solutionrelative:red dead redemption 2\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,11 +50,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Red Dead Redemption 2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAIwFgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -62,11 +62,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Red Dead Redemption 2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -74,23 +74,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Story.cshtml",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Story.cshtml",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Story.cshtml",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\Views\\Home\\Story.cshtml",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Story.cshtml",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Story.cshtml",
               "RelativeToolTip": "Red Dead Redemption 2\\Views\\Home\\Story.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T22:30:41.363Z"
+              "WhenOpened": "2024-11-03T22:30:41.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Characters.cshtml",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Characters.cshtml",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Characters.cshtml",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\Views\\Home\\Characters.cshtml",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Characters.cshtml",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Characters.cshtml",
               "RelativeToolTip": "Red Dead Redemption 2\\Views\\Home\\Characters.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -98,23 +99,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Weaponry.cshtml",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Weaponry.cshtml",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Weaponry.cshtml",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\Views\\Home\\Weaponry.cshtml",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Weaponry.cshtml",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\Weaponry.cshtml",
               "RelativeToolTip": "Red Dead Redemption 2\\Views\\Home\\Weaponry.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwE8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T19:38:04.98Z"
+              "WhenOpened": "2024-11-04T19:38:04.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Red Dead Redemption 2\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -124,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Red Dead Redemption 2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAmwKkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,11 +138,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Red Dead Redemption 2\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAkwAQBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-03T22:21:17.344Z",
               "EditorCaption": ""
@@ -149,9 +151,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Models\\Character.cs",
+              "DocumentMoniker": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Models\\Character.cs",
               "RelativeDocumentMoniker": "Red Dead Redemption 2\\Models\\Character.cs",
-              "ToolTip": "C:\\Users\\phuoc\\Downloads\\Red Dead Redemption 2\\Red Dead Redemption 2\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\Models\\Character.cs",
               "RelativeToolTip": "Red Dead Redemption 2\\Models\\Character.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
