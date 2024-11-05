@@ -1,0 +1,90 @@
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\appsettings.json
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.staticwebassets.runtime.json
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.exe
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.deps.json
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.runtimeconfig.json
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.dll
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.pdb
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.AssemblyInfoInputs.cache
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.AssemblyInfo.cs
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.RazorAssemblyInfo.cache
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.RazorAssemblyInfo.cs
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.Red Dead Redemption 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Red Dead Redemption 2.props
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Red Dead Redemption 2.props
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Red Dead Redemption 2.props
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\bundle\Red Dead Redemption 2.styles.css
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\projectbundle\Red Dead Redemption 2.bundle.scp.css
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.dll
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\refint\Red Dead Redemption 2.dll
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.pdb
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.genruntimeconfig.cache
+C:\Users\phuoc\Desktop\Code\Web App\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\ref\Red Dead Redemption 2.dll
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\appsettings.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.staticwebassets.runtime.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.exe
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.deps.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.runtimeconfig.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.dll
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.pdb
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.AssemblyInfoInputs.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.AssemblyInfo.cs
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.RazorAssemblyInfo.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.RazorAssemblyInfo.cs
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.Red Dead Redemption 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Red Dead Redemption 2.props
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Red Dead Redemption 2.props
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Red Dead Redemption 2.props
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\bundle\Red Dead Redemption 2.styles.css
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\projectbundle\Red Dead Redemption 2.bundle.scp.css
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.dll
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\refint\Red Dead Redemption 2.dll
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.pdb
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.genruntimeconfig.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\ref\Red Dead Redemption 2.dll
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\appsettings.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.staticwebassets.runtime.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.exe
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.deps.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.runtimeconfig.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.dll
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\bin\Debug\net8.0\Red Dead Redemption 2.pdb
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.AssemblyInfoInputs.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.AssemblyInfo.cs
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.RazorAssemblyInfo.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.RazorAssemblyInfo.cs
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.Red Dead Redemption 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Red Dead Redemption 2.props
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Red Dead Redemption 2.props
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Red Dead Redemption 2.props
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\bundle\Red Dead Redemption 2.styles.css
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\scopedcss\projectbundle\Red Dead Redemption 2.bundle.scp.css
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.dll
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\refint\Red Dead Redemption 2.dll
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.pdb
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\Red Dead Redemption 2.genruntimeconfig.cache
+C:\Users\phuoc\Downloads\Red Dead Redemption 2\Red Dead Redemption 2\obj\Debug\net8.0\ref\Red Dead Redemption 2.dll

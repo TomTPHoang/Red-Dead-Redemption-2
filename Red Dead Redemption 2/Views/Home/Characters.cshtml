@@ -1,0 +1,30 @@
+﻿@model List<Character>
+
+<div class="container">
+    <div class="text-center">
+        <h1 class="display-4">The Van Der Linde Gang</h1>
+        <h2 class="display-4">A gang of outlaws, renegades and misfits, bonded together under the charismatic and idealistic Dutch van der Linde. They have chosen to live outside the law and now fear it may be catching up with them.</h2>
+        <h3 class="display-4">Outlaws For Life</h3>
+    </div>
+
+    <div class="row">
+        @foreach (var character in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="character-image-container">
+                        <img src="@character.ImageUrl" class="card-img-top" alt="@character.Name">
+                        <div class="character-bio">
+                            <p>@character.Bio</p>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@character.Name</h5>
+                        <p class="card-text">@character.Role</p>
+                        <p class="card-text text-muted"><em>"@character.Quote"</em></p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

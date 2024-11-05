@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Red Dead Redemption 2.props" />
+</Project>

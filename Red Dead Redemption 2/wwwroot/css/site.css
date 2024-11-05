@@ -1,0 +1,246 @@
+body {
+    font-family: 'Cinzel', serif;
+    background-color: #181818;
+    color: #b88a63;
+}
+
+.navbar {
+    background-color: #282015 !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #b88a63 !important;
+}
+
+.card {
+    background-color: #282015;
+    border: none;
+    margin-bottom: 20px;
+    color: #b88a63;
+}
+
+.hero-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+      justify-content:   center;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.hero-text {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    color: #d9b886;
+    text-shadow: 2px 2px 4px #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+    .hero-text .btn-light {
+        background-color: #603813;
+        border-color: #d9b886;
+        color: #d9b886;
+        font-weight: bold;
+        padding: 10px 20px;
+        border-radius: 5px;
+        transition: all 0.2s ease;
+        display: block;
+        margin: 0 auto;
+        width: fit-content;
+    }
+
+        .hero-text .btn-light:hover {
+            background-color: #d9b886;
+            color: #603813;
+            border-color: #603813;
+        }
+
+#story-container {
+    background-color: #282015;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#story-content {
+    text-align: justify;
+    line-height: 1.6;
+    color: #b88a63;
+}
+
+    #story-content h2 {
+        color: #d9b886;
+        margin-top: 20px;
+    }
+
+#about-container {
+    background-color: #282015;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#about-content {
+    text-align: justify;
+    line-height: 1.6;
+    color: #b88a63;
+}
+
+.social-links {
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .social-links a {
+        color: #d9b886;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+
+
+.welcome-section {
+    margin-top: 20px;
+}
+
+    .welcome-section h2 {
+        color: #d9b886;
+    }
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+.buy-section {
+    background-color: #282015;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+    .buy-section .launcher-icon {
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+    }
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #b80000 !important;
+    transform: scale(1.1);
+    transition: all 0.2s ease;
+}
+
+.text-center h2 {
+    font-size: 1.2rem;
+}
+
+footer {
+    color: #cc9966;
+}
+
+.character-image-container {
+    position: relative; /* Required for positioning the bio text */
+    overflow: hidden; /* Ensures the bio text doesn't overflow the container */
+}
+
+    .character-image-container img {
+        transition: opacity 0.3s ease; /* Add a transition for smooth fading */
+    }
+
+    .character-image-container:hover img {
+        opacity: 0.3; /* Fade the image on hover */
+    }
+
+.character-bio {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    opacity: 0; /* Initially hide the bio text */
+    transition: opacity 0.3s ease; /* Add a transition for smooth fading */
+    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent background */
+    color: #d9b886; /* Set text color to light brown */
+    padding: 10px; /* Add some padding */
+}
+
+.character-image-container:hover .character-bio {
+    opacity: 1; /* Show the bio text on hover */
+}
+
+/* Weaponry Page Styles */
+.weaponry-section {
+    margin-top: 20px;
+    text-align: center; /* Center the heading and paragraph */
+}
+
+    .weaponry-section h1 {
+        color: #d9b886;
+    }
+
+.weaponry-grid {
+    margin-top: 20px;
+}
+
+.weapon-item {
+    position: relative;
+    margin-bottom: 20px;
+    overflow: hidden; /* Hide overflowing content */
+}
+
+    .weapon-item img {
+        display: block;
+        width: 100%;
+        height: auto; /* Maintain aspect ratio */
+        max-height: 300px; /* Set a maximum height for the images */
+        transition: transform 0.3s ease, opacity 0.3s ease;
+    }
+
+    .weapon-item:hover img {
+        transform: scale(1.1); /* Slightly enlarge image on hover */
+        opacity: 0.7; /* Slightly fade image on hover */
+    }
+
+.weapon-details {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #d9b886;
+    padding: 10px;
+    opacity: 0; /* Hide details initially */
+    transform: translateY(100%); /* Initially move details down */
+    transition: opacity 0.3s ease, transform 0.3s ease; /* Add transitions for smooth hover effects */
+}
+
+.weapon-item:hover .weapon-details {
+    opacity: 1; /* Show details on hover */
+    transform: translateY(0); /* Move details up on hover */
+}
