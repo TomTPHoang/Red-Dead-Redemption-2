@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Red Dead Redemption 2.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Red Dead Redemption 2.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Red Dead Redemption 2.b2r6097wb8.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Users\\phuoc\\Desktop\\Code\\Web App\\Red Dead Redemption 2\\Red Dead Redemption 2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Red Dead Redemption 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Red Dead Redemption 2.Microsoft.AspNetCore.StaticWebAssets.props",

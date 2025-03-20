@@ -1,0 +1,17 @@
+﻿@* Index.cshtml in Views/Account *@
+
+@{
+    ViewData["Title"] = "Assignment 5 - Fancy Signup";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    Place the assignment instructions here. For example:
+    "In this assignment, you will create a website with signup and login functionality.
+    The signup page should collect the user's email, first name, last name, country, and password.
+    The login page should allow users to log in with their email and password."
+</p>
+
+<a asp-controller="Account" asp-action="Signup" class="btn btn-primary">Signup</a>
+<a asp-controller="Account" asp-action="Login" class="btn btn-secondary">Login</a>

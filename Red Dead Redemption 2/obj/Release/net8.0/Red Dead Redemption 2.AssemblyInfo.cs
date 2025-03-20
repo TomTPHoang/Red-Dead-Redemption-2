@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Red Dead Redemption 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ba6ce337696d6d5ba8c4f057120ca66596a160")]
 [assembly: System.Reflection.AssemblyProductAttribute("Red Dead Redemption 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Red Dead Redemption 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

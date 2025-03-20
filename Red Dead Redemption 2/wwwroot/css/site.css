@@ -48,24 +48,24 @@ body {
     width: 100%;
 }
 
-    .hero-text .btn-light {
-        background-color: #603813;
-        border-color: #d9b886;
-        color: #d9b886;
-        font-weight: bold;
-        padding: 10px 20px;
-        border-radius: 5px;
-        transition: all 0.2s ease;
-        display: block;
-        margin: 0 auto;
-        width: fit-content;
-    }
+.hero-text .btn-light {
+    background-color: #603813;
+    border-color: #d9b886;
+    color: #d9b886;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+}
 
-        .hero-text .btn-light:hover {
-            background-color: #d9b886;
-            color: #603813;
-            border-color: #603813;
-        }
+.hero-text .btn-light:hover {
+    background-color: #d9b886;
+    color: #603813;
+    border-color: #603813;
+}
 
 #story-container {
     background-color: #282015;
@@ -164,17 +164,17 @@ footer {
 }
 
 .character-image-container {
-    position: relative; /* Required for positioning the bio text */
-    overflow: hidden; /* Ensures the bio text doesn't overflow the container */
+    position: relative;
+    overflow: hidden;
 }
 
-    .character-image-container img {
-        transition: opacity 0.3s ease; /* Add a transition for smooth fading */
-    }
+.character-image-container img {
+    transition: opacity 0.3s ease;
+}
 
-    .character-image-container:hover img {
-        opacity: 0.3; /* Fade the image on hover */
-    }
+.character-image-container:hover img {
+    opacity: 0.3;
+}
 
 .character-bio {
     position: absolute;
@@ -183,26 +183,26 @@ footer {
     transform: translate(-50%, -50%);
     width: 100%;
     text-align: center;
-    opacity: 0; /* Initially hide the bio text */
-    transition: opacity 0.3s ease; /* Add a transition for smooth fading */
-    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent background */
-    color: #d9b886; /* Set text color to light brown */
-    padding: 10px; /* Add some padding */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #d9b886;
+    padding: 10px;
 }
 
 .character-image-container:hover .character-bio {
-    opacity: 1; /* Show the bio text on hover */
+    opacity: 1;
 }
 
-/* Weaponry Page Styles */
+
 .weaponry-section {
     margin-top: 20px;
-    text-align: center; /* Center the heading and paragraph */
+    text-align: center;
 }
 
-    .weaponry-section h1 {
-        color: #d9b886;
-    }
+.weaponry-section h1 {
+    color: #d9b886;
+}
 
 .weaponry-grid {
     margin-top: 20px;
@@ -211,20 +211,20 @@ footer {
 .weapon-item {
     position: relative;
     margin-bottom: 20px;
-    overflow: hidden; /* Hide overflowing content */
+    overflow: hidden;
 }
 
-    .weapon-item img {
-        display: block;
-        width: 100%;
-        height: auto; /* Maintain aspect ratio */
-        max-height: 300px; /* Set a maximum height for the images */
-        transition: transform 0.3s ease, opacity 0.3s ease;
-    }
+.weapon-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
 
-    .weapon-item:hover img {
-        transform: scale(1.1); /* Slightly enlarge image on hover */
-        opacity: 0.7; /* Slightly fade image on hover */
+.weapon-item:hover img {
+    transform: scale(1.1);
+    opacity: 0.7;
     }
 
 .weapon-details {
@@ -235,17 +235,17 @@ footer {
     background-color: rgba(0, 0, 0, 0.7);
     color: #d9b886;
     padding: 10px;
-    opacity: 0; /* Hide details initially */
-    transform: translateY(100%); /* Initially move details down */
-    transition: opacity 0.3s ease, transform 0.3s ease; /* Add transitions for smooth hover effects */
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
 .weapon-item:hover .weapon-details {
-    opacity: 1; /* Show details on hover */
-    transform: translateY(0); /* Move details up on hover */
+    opacity: 1;
+    transform: translateY(0);
 }
 
-/* Weapon Customization Styles */
+
 .weapon-customization-section p {
     width: 80%;
     margin: 20px auto;
@@ -257,7 +257,7 @@ footer {
 
 .weapon-customization-section h2 {
     color: #d9b886;
-    text-align: center; /* Add this to center the text */
+    text-align: center;
 }
 
 .customization-grid {
@@ -265,23 +265,23 @@ footer {
 }
 
 .customization-item {
-    text-align: center; /* Center text within each item */
+    text-align: center;
     margin-bottom: 20px;
 }
 
-    .customization-item img {
-        display: block;
-        width: 100%;
-        height: auto;
-        max-height: 200px; /* Adjust max height as needed */
-        margin-bottom: 10px; /* Add spacing between image and text */
-    }
+.customization-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    margin-bottom: 10px;
+}
 
-    .customization-item p {
-        color: white;
-        transition: color 0.3s ease;
-    }
+.customization-item p {
+    color: white;
+    transition: color 0.3s ease;
+}
 
-    .customization-item:hover p {
-        color: #b80000;
-    }
+.customization-item:hover p {
+    color: #b80000;
+}
